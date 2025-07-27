@@ -1,3 +1,4 @@
+import React from 'react';
 import { BannerImage } from "public/svgs/svgs"
 
 export function HeaderImage() {

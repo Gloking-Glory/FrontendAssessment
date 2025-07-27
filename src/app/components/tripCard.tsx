@@ -1,5 +1,5 @@
 'use client';
-
+import React from 'react';
 import { TripItem } from '../../types/trip';
 import { X, Luggage, Tv, Utensils, Usb } from 'lucide-react';
 import { AirlineIcon } from 'public/svgs/svgs';

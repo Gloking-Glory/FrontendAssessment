@@ -1,5 +1,5 @@
 'use client';
-
+import React from 'react';
 import { useEffect, useState } from 'react';
 import { Flights } from 'public/svgs/svgs';
 import { TripCard } from './tripCard';
