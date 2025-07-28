@@ -1,4 +1,3 @@
-import React from 'react';
 import { TripItem } from "src/types/trip";
 import { Card } from "./card";
 

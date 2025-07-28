@@ -27,7 +27,7 @@ export const sidebarItems: NavItem[] = [
 
 export const Sidebar: FC = () => {
   return (
-    <aside className="w-60 bg-gray-50 border-r h-screen py-6 px-4">
+    <aside className="w-60 bg-white border-r h-screen py-6 px-4 ml-10 mt-12 shadow-lg rounded-lg">
       {sidebarItems.map((item) => (
         <Link
           key={item.href}
